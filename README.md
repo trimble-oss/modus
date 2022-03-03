@@ -4,10 +4,10 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 
 # Contents
 
-- [Public Web Sites](#public-web-sites)
-- [Repository Spotlight](#repository-spotlight)
-- [All Repositories](#all-repositories)
-- [Guides](#guides)
+- [Public Web Sites](#-public-web-sites)
+- [Repository Spotlight](#-repository-spotlight)
+- [All Repositories](#-all-repositories)
+- [Guides](#-guides)
 
 ## 🌐 Public Web Sites
 
