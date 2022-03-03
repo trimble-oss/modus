@@ -9,7 +9,7 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 - [All Repositories](#all-repositories)
 - [Guides](#guides)
 
-# 🌐 Public Web Sites
+## 🌐 Public Web Sites
 
 | Site                                                         |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -20,7 +20,7 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 | Modus Angular                                                | TBD.                                                         |
 | Modus Vue                                                    | TBD.                                                         |
 
-# 💡 Repository Spotlight 
+## 💡 Repository Spotlight 
 
 | Repo                                                         |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -29,7 +29,7 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 | [modus-web-components](https://github.com/trimble-oss/modus-web-components) | This component library is designed to work within any web application, no matter the frontend tech stack. |
 | [modus-css-variables](https://github.com/trimble-oss/modus-css-variables) | Use Modus CSS custom properties (variables) for fast and forward-looking design and development. |
 
-# ✨ All Repositories
+## ✨ All Repositories
 
 | Repo                                                         |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -45,7 +45,7 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 | [website-modus-bootstrap.trimble.com](https://github.com/trimble-oss/website-modus-bootstrap.trimble.com) | Documentation and code samples for using the Modus Bootstrap framework. |
 | [modus-mb2](https://github.com/trimble-oss/modus-mb2)        | Experimental Modus Bootstrap 2 (based on Bootstrap v5).      |
 
-# 📘 Guides
+## 📘 Guides
 
 | Guide                                 |                                                              |
 | ------------------------------------- | ------------------------------------------------------------ |
