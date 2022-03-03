@@ -17,8 +17,6 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 | [Modus Web Components Storybook](https://modus-web-components.trimble.com/) | The Modus Web Components documentation site. This component library is designed to work within any web application, no matter the frontend tech stack. |
 | [Modus Bootstrap Developer Guide](https://modus-bootstrap.trimble.com/) | The Modus Bootstrap documentation site. This library helps developers design quickly, and customize responsive mobile-first sites with a Bootstrap implementation. |
 | [Modus React Bootstrap Developer Guide](https://modus-react-bootstrap.trimble.com/) | The Modus React Bootstrap implementation documentation site. This library is a Modus-specific wrapper for the React-Bootstrap library. |
-| Modus Angular                                                | TBD.                                                         |
-| Modus Vue                                                    | TBD.                                                         |
 
 ## 💡 Repository Spotlight 
 
@@ -27,7 +25,6 @@ Welcome to the home of the Modus design system developer projects! Modus helps u
 | [website-modus.trimble.com](https://github.com/trimble-oss/website-modus.trimble.com) | The style guide site for Modus design system.                |
 | [modus-react-bootstrap](https://github.com/trimble-oss/modus-react-bootstrap) | A Modus component library extended from React-Bootstrap component library. |
 | [modus-web-components](https://github.com/trimble-oss/modus-web-components) | This component library is designed to work within any web application, no matter the frontend tech stack. |
-| [modus-css-variables](https://github.com/trimble-oss/modus-css-variables) | Use Modus CSS custom properties (variables) for fast and forward-looking design and development. |
 
 ## ✨ All Repositories
 
