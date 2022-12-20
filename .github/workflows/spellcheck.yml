@@ -4,14 +4,14 @@ on: # rebuild any PRs and main branch changes
     branches-ignore:
       - "dependabot/**"
 
-permissions:  # added using https://github.com/step-security/secure-workflows
+permissions:
   contents: read
 
 jobs:
   spellcheck: # run the action
     permissions:
-      contents: read  # for streetsidesoftware/cspell-action to fetch files for commit
-      pull-requests: read  # for streetsidesoftware/cspell-action to fetch commits for PR
+      contents: read # for streetsidesoftware/cspell-action to fetch files for commit
+      pull-requests: read # for streetsidesoftware/cspell-action to fetch commits for PR
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
